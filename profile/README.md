@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/FinoraLabs/finora-assets/logos/finora-logo.png" width="180" alt="Finora Labs Logo">
+<img src="https://raw.githubusercontent.com/FinoraLabs/finora-assets/logos/finora-logo.png" width="140" alt="Finora Labs Logo">
 
 # 🌐 Finora Labs
 
